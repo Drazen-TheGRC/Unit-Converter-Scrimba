@@ -58,8 +58,7 @@ button{
     margin: 30px;
 }
 input{
-    width: fit-content;
-    margin: 0 auto;
+    width: 80px;
     height: 60px;
     text-align: center;
     background-color: #6943FF;
